@@ -1,0 +1,9 @@
+{
+	"role":{
+		"name": "HA300::DATA_VIEWER",
+		"schema_analytic_privileges": [{
+			
+		   "privileges": ["HA300::AP_COUNTRY_US" ]
+		}]
+	}
+}

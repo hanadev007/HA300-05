@@ -1,0 +1,8 @@
+{
+"role":{
+ "name":"HA300::UNMASK_ALL",
+ "schema_privileges":[{
+   "privileges":["UNMASKED"]
+                     }]
+        }
+}
